@@ -17,6 +17,9 @@
      </td> 
   </tr>
   <hr>
+  <tr class="camposRepInp" >
+     <td width="100%">Motivo de evaluacion</td> 
+  <tr> 
   <tr class="estiloImput">
     <table>
            <tr>
@@ -40,6 +43,41 @@
 </tr>
     </table>
   </tr>
+  
+  
+  <tr class="camposRepInp" >
+     <td width="100%">Identificacion de la empresa</td> 
+  <tr> 
+  <tr class="estiloImput">
+    <table width="100%"  cellpadding="0" cellspacing="0"  align="center">
+
+<tr>
+    <td>Nombre<input type="text" name="" > </td>
+    <td>Actividad economica<input type="text" name="" > </td>
+</tr>
+
+</table> 
+  </tr>
+  
+  
+    <tr class="camposRepInp" >
+     <td width="100%">Historia laboral</td> 
+  <tr> 
+  <tr class="estiloImput">
+    <table width="100%"  cellpadding="0" cellspacing="0"  align="center">
+
+<tr>
+    <td>Antiguedad en la empresa<input type="text" name="" > </td>
+    <td>Nombre del cargo a desempeñar<input type="text" name="" > </td>
+    <td>Dependencia<input type="text" name="" > </td>
+    <td>Turno<input type="text" name="" > </td>
+
+</tr>
+
+</table> 
+  </tr>
+  
+  
 </table>  
 
   <TABLE width="100%">

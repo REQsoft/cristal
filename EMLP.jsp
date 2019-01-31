@@ -24,7 +24,7 @@
   <tr class="estiloImput">
     <div>
       <center>
-        <table>
+        <table border="1">
           <tr>
             <td>
               <input type="checkbox" name=""> 1. Ingreso

@@ -62,6 +62,57 @@
     <td>Actividad economica<input type="text" name=""> </td>
   <tr>
 
+
+  <tr>
+    <table>
+      <tr>
+        <td>
+          <h4>Identificacion del trabajador</h4>
+        </td>
+      </tr>
+      <tr>
+        <table>
+          <tr>
+            <td>
+              <small>EPS</small>
+            </td>
+            <td>
+              <input type="checkbox">
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <small>ARP</small>
+            </td>
+            <td>
+              <input type="checkbox">
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <small>AFP</small>
+            </td>
+            <td>
+              <input type="checkbox">
+            </td>
+          </tr>
+        </table>
+      </tr>
+    </table>
+  </tr>
+  <br>
+  <br>
+  <tr class="camposRepInp">
+    <td width="100%">Identificacion de la empresa</td>
+  <tr>
+    <br>
+  <tr class="estiloImput">
+    <td>Nombre<input type="text" name=""> </td>
+  <tr>
+  <tr class="estiloImput">
+    <td>Actividad economica<input type="text" name=""> </td>
+  <tr>
+
     <br>
     <br>
   <tr class="camposRepInp">

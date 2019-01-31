@@ -75,6 +75,8 @@
     <td>Turno<input type="text" name="" > </td>
 
 </tr>
+      
+
 
 </table> 
   </tr>
@@ -120,6 +122,26 @@
   <tr> 
   <tr class="estiloImput">
   <textarea type="text" rows="6"></textarea> 
+  </tr>
+  
+  <br>
+  <br>
+    <tr class="camposRepInp" >
+     <td width="100%">Materias primas o insumos</td> 
+  <tr> 
+  <tr class="estiloImput">
+  <textarea type="text" rows="6"></textarea> 
+  </tr>
+  
+  <br>
+  <br>
+    <tr class="camposRepInp" >
+     <td width="100%">Uso de elementos de proteccion personal</td> 
+  <tr> 
+  <tr class="estiloImput">
+  <td>En el cargo o la empresa <br>
+    <input type="checkbox" name="" >SI <br>
+    <input type="checkbox" name="" >NO</td>
   </tr>
 </table>  
 

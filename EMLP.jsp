@@ -135,13 +135,101 @@
   
   <br>
   <br>
-    <tr class="camposRepInp" >
+   <tr class="camposRepInp" >
      <td width="100%">Uso de elementos de proteccion personal</td> 
   <tr> 
+  <br>
   <tr class="estiloImput">
   <td>En el cargo o la empresa <br>
     <input type="checkbox" name="" >SI <br>
     <input type="checkbox" name="" >NO</td>
+  </tr>
+  
+  <br>
+  <br>
+   <tr class="camposRepInp" >
+     <td width="100%">Accidentes de tranajo</td> 
+  <tr> 
+  <br>
+  <tr class="estiloImput">
+  <td><textarea type="text" rows="6" id="txt_EMLP_C1"  size="4000"  maxlength="4000" style="width:95%"   tabindex="101" onblur="v28(this.value,this.id); guardarContenidoDocumento();" onkeypress="return validarKey(event,this.id)"> </textarea></td>
+  </tr>
+  
+  <br>
+  <br>
+   <tr class="camposRepInp" >
+     <td width="100%">Enfermedad profesional</td> 
+  <tr> 
+  <br>
+  <tr class="estiloImput">
+    <td><input type="checkbox" name="" >SI</td> 
+  </tr>
+  <tr class="estiloImput">
+  <td><input type="checkbox" name="" >NO</td> 
+  </tr>
+  <tr class="estiloImput">
+  <td><textarea type="text" rows="6" id="txt_EMLP_C1"  size="4000"  maxlength="4000" style="width:95%"   tabindex="101" onblur="v28(this.value,this.id); guardarContenidoDocumento();" onkeypress="return validarKey(event,this.id)"> </textarea></td> 
+  </tr>
+  
+  <br>
+  <br>
+   <tr class="camposRepInp" >
+     <td width="100%">Antecendentes quirurjicos</td> 
+  <tr> 
+  <br>
+  <tr class="estiloImput">
+    <textarea type="text" rows="6" id="txt_EMLP_C1"  size="4000"  maxlength="4000" style="width:95%"   tabindex="101" onblur="v28(this.value,this.id); guardarContenidoDocumento();" onkeypress="return validarKey(event,this.id)"> </textarea>
+  </tr>
+  
+  
+  <br>
+  <br>
+   <tr class="camposRepInp" >
+     <td width="100%">Antecendentes traumaticos</td> 
+  <tr> 
+  <br>
+  <tr class="estiloImput">
+    <textarea type="text" rows="6" id="txt_EMLP_C1"  size="4000"  maxlength="4000" style="width:95%"   tabindex="101" onblur="v28(this.value,this.id); guardarContenidoDocumento();" onkeypress="return validarKey(event,this.id)"> </textarea>
+  </tr>
+  
+  <br>
+  <br>
+   <tr class="camposRepInp" >
+     <td width="100%">Antecendentes patologicos</td> 
+  <tr> 
+  <br>
+  <tr class="estiloImput">
+    <textarea type="text" rows="6" id="txt_EMLP_C1"  size="4000"  maxlength="4000" style="width:95%"   tabindex="101" onblur="v28(this.value,this.id); guardarContenidoDocumento();" onkeypress="return validarKey(event,this.id)"> </textarea>
+  </tr>
+  
+  <br>
+  <br>
+   <tr class="camposRepInp" >
+     <td width="100%">Secuelas</td> 
+  <tr> 
+  <br>
+  <tr class="estiloImput">
+    <textarea type="text" rows="6" id="txt_EMLP_C1"  size="4000"  maxlength="4000" style="width:95%"   tabindex="101" onblur="v28(this.value,this.id); guardarContenidoDocumento();" onkeypress="return validarKey(event,this.id)"> </textarea>
+  </tr>
+  
+  <br>
+  <br>
+   <tr class="camposRepInp" >
+     <td width="100%">Inmunizacion</td> 
+  <tr> 
+  <br>
+  <tr class="estiloImput">
+    <textarea type="text" rows="6" id="txt_EMLP_C1"  size="4000"  maxlength="4000" style="width:95%"   tabindex="101" onblur="v28(this.value,this.id); guardarContenidoDocumento();" onkeypress="return validarKey(event,this.id)"> </textarea>
+  </tr>
+  
+  <br>
+  <br>
+   <tr class="camposRepInp" >
+     <td width="100%">Hepatitis B</td> 
+  <tr> 
+  <br>
+  <tr class="estiloImput">
+    <textarea type="text" rows="6" id="txt_EMLP_C1"  size="4000"  maxlength="4000" style="width:95%"   tabindex="101" onblur="v28(this.value,this.id); guardarContenidoDocumento();" onkeypress="return validarKey(event,this.id)"> </textarea>
   </tr>
 </table>  
 

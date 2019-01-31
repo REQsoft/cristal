@@ -44,7 +44,8 @@
     </table>
   </tr>
   
-  
+  <br>
+  <br>
   <tr class="camposRepInp" >
      <td width="100%">Identificacion de la empresa</td> 
   <tr> 
@@ -59,7 +60,8 @@
 </table> 
   </tr>
   
-  
+  <br>
+  <br>
     <tr class="camposRepInp" >
      <td width="100%">Historia laboral</td> 
   <tr> 
@@ -78,6 +80,47 @@
   </tr>
   
   
+  <br>
+  <br>
+    <tr class="camposRepInp" >
+     <td width="100%">Actividades a realizar</td> 
+  <tr> 
+  <tr class="estiloImput">
+  <td><input type="checkbox" name="" > De pie</td>
+    <td><input type="checkbox" name="" >Sentado </td>
+    <td><input type="checkbox" name="" >Caminando </td>
+    <td><input type="checkbox" name="" > Inclinado </td>
+    <td><input type="checkbox" name="" >Arrodillado </td>
+    <td><input type="checkbox" name="" > Otra</td>
+
+  </tr>
+  
+    <br>
+  <br>
+    <tr class="camposRepInp" >
+     <td width="100%">Equipos o herramientas utilizadas</td> 
+  <tr> 
+  <tr class="estiloImput">
+  <textarea type="text" rows="6"></textarea> 
+  </tr>
+  
+    <br>
+  <br>
+    <tr class="camposRepInp" >
+     <td width="100%">Materias primas o insumos</td> 
+  <tr> 
+  <tr class="estiloImput">
+  <textarea type="text" rows="6"></textarea> 
+  </tr>
+  
+   <br>
+  <br>
+    <tr class="camposRepInp" >
+     <td width="100%">Materias primas o insumos</td> 
+  <tr> 
+  <tr class="estiloImput">
+  <textarea type="text" rows="6"></textarea> 
+  </tr>
 </table>  
 
   <TABLE width="100%">

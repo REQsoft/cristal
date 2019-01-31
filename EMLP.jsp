@@ -18,7 +18,8 @@
   </tr>
   <hr>
   <tr class="estiloImput">
-     <tr>
+    <table>
+           <tr>
     <td>
     <input type="checkbox" name="" > 1. Ingreso    
     </td>
@@ -37,6 +38,7 @@
     <td><input type="checkbox" name="" >9. Otros</td>
     
 </tr>
+    </table>
   </tr>
 </table>  
 

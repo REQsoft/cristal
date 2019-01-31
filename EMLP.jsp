@@ -22,13 +22,13 @@
   <tr> 
   <tr class="estiloImput">
     <table>
-           <tr>
-    <td>
-    <input type="checkbox" name="" > 1. Ingreso    
-    </td>
-    <td>
-    <input type="checkbox" name="" > 2. Periodo</td>
-    <td><input type="checkbox" name="" > 3. Retiro</td>
+      <tr>
+        <td>
+          <input type="checkbox" name="" > 1. Ingreso    
+        </td>
+        <td>
+          <input type="checkbox" name="" > 2. Periodo</td>
+        <td><input type="checkbox" name="" > 3. Retiro</td>
 </tr>
 <tr>
     <td><input type="checkbox" name="" > 4. Calificacion origen </td>
@@ -50,51 +50,43 @@
      <td width="100%">Identificacion de la empresa</td> 
   <tr> 
   <tr class="estiloImput">
-    <table width="100%"  cellpadding="0" cellspacing="0"  align="center">
-
-<tr>
     <td>Nombre<input type="text" name="" > </td>
+  <tr> 
+  <tr class="estiloImput">
     <td>Actividad economica<input type="text" name="" > </td>
-</tr>
-
-</table> 
-  </tr>
+  <tr> 
   
   <br>
   <br>
-    <tr class="camposRepInp" >
+  <tr class="camposRepInp" >
      <td width="100%">Historia laboral</td> 
   <tr> 
   <tr class="estiloImput">
-    <table width="100%"  cellpadding="0" cellspacing="0"  align="center">
-
-<tr>
     <td>Antiguedad en la empresa<input type="text" name="" > </td>
-    <td>Nombre del cargo a desempeñar<input type="text" name="" > </td>
-    <td>Dependencia<input type="text" name="" > </td>
-    <td>Turno<input type="text" name="" > </td>
-
-</tr>
-      
-
-
-</table> 
-  </tr>
-  
+  <tr> 
+  <tr class="estiloImput">
+     <td>Nombre del cargo a desempeñar<input type="text" name="" > </td>
+  <tr> 
+  <tr class="estiloImput">
+     <td>Dependencia<input type="text" name="" > </td>
+  <tr> 
+  <tr class="estiloImput">
+     <td>Turno<input type="text" name="" > </td>
+  <tr>
   
   <br>
   <br>
     <tr class="camposRepInp" >
      <td width="100%">Actividades a realizar</td> 
   <tr> 
+  <br>
   <tr class="estiloImput">
-  <td><input type="checkbox" name="" > De pie</td>
+    <td><input type="checkbox" name="" > De pie</td>
     <td><input type="checkbox" name="" >Sentado </td>
     <td><input type="checkbox" name="" >Caminando </td>
     <td><input type="checkbox" name="" > Inclinado </td>
     <td><input type="checkbox" name="" >Arrodillado </td>
     <td><input type="checkbox" name="" > Otra</td>
-
   </tr>
   
     <br>

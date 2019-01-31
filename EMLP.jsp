@@ -130,6 +130,27 @@
   <br>
   <br>
    <tr class="camposRepInp" >
+     <td width="100%">Exposiciones a factores de riesgo (Actuales)</td> 
+  <tr> 
+  <br>
+  <tr class="estiloImput">
+  <td><textarea type="text" rows="6" id="txt_EMLP_C1"  size="4000"  maxlength="4000" style="width:95%"   tabindex="101" onblur="v28(this.value,this.id); guardarContenidoDocumento();" onkeypress="return validarKey(event,this.id)"> </textarea></td>
+  </tr>
+  
+  
+  <br>
+  <br>
+   <tr class="camposRepInp" >
+     <td width="100%">Exposiciones a factores de riesgo (Anteriores)</td> 
+  <tr> 
+  <br>
+  <tr class="estiloImput">
+  <td><textarea type="text" rows="6" id="txt_EMLP_C1"  size="4000"  maxlength="4000" style="width:95%"   tabindex="101" onblur="v28(this.value,this.id); guardarContenidoDocumento();" onkeypress="return validarKey(event,this.id)"> </textarea></td>
+  </tr>
+  
+  <br>
+  <br>
+   <tr class="camposRepInp" >
      <td width="100%">Accidentes de trabajo</td> 
   <tr> 
   <br>
@@ -255,6 +276,18 @@
   <tr class="estiloImput">
    <td><textarea type="text" rows="6" placeholder="Lenguaje"> </textarea></td>
   </tr>
+  
+  
+  <br>
+  <br>
+   <tr class="camposRepInp" >
+     <td width="100%">Exposiciones a factores de riesgo (Anteriores)</td> 
+  <tr> 
+  <br>
+  <tr class="estiloImput">
+  <td><textarea type="text" rows="6" id="txt_EMLP_C1"  size="4000"  maxlength="4000" style="width:95%"   tabindex="101" onblur="v28(this.value,this.id); guardarContenidoDocumento();" onkeypress="return validarKey(event,this.id)"> </textarea></td>
+  </tr>
+  
 </table>  
 
   <TABLE width="100%">

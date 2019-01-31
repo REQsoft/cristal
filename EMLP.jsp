@@ -48,7 +48,8 @@
   <br>
   <tr class="camposRepInp" >
      <td width="100%">Identificacion de la empresa</td> 
-  <tr> 
+  <tr>
+  <br>
   <tr class="estiloImput">
     <td>Nombre<input type="text" name="" > </td>
   <tr> 
@@ -60,16 +61,20 @@
   <br>
   <tr class="camposRepInp" >
      <td width="100%">Historia laboral</td> 
-  <tr> 
+  <tr>
+  <br>
   <tr class="estiloImput">
     <td>Antiguedad en la empresa<input type="text" name="" > </td>
-  <tr> 
+  <tr>
+  <br>
   <tr class="estiloImput">
      <td>Nombre del cargo a desempeñar<input type="text" name="" > </td>
-  <tr> 
+  <tr>
+  <br>
   <tr class="estiloImput">
      <td>Dependencia<input type="text" name="" > </td>
   <tr> 
+  <br>
   <tr class="estiloImput">
      <td>Turno<input type="text" name="" > </td>
   <tr>
@@ -87,44 +92,29 @@
     <td><input type="checkbox" name="" > Inclinado </td>
     <td><input type="checkbox" name="" >Arrodillado </td>
     <td><input type="checkbox" name="" > Otra</td>
+    <td><input type="text" name="" ></td>
   </tr>
   
-    <br>
   <br>
-    <tr class="camposRepInp" >
-     <td width="100%">Equipos o herramientas utilizadas</td> 
+  <br>
+   <tr class="camposRepInp" >
+     <td width="100%">Euipos o herramientas utilizadas</td> 
   <tr> 
+  <br>
   <tr class="estiloImput">
-  <textarea type="text" rows="6"></textarea> 
+  <td><textarea type="text" rows="6" id="txt_EMLP_C1"  size="4000"  maxlength="4000" style="width:95%"   tabindex="101" onblur="v28(this.value,this.id); guardarContenidoDocumento();" onkeypress="return validarKey(event,this.id)"> </textarea></td>
   </tr>
   
-    <br>
   <br>
-    <tr class="camposRepInp" >
+  <br>
+   <tr class="camposRepInp" >
      <td width="100%">Materias primas o insumos</td> 
   <tr> 
-  <tr class="estiloImput">
-  <textarea type="text" rows="6"></textarea> 
-  </tr>
-  
-   <br>
   <br>
-    <tr class="camposRepInp" >
-     <td width="100%">Materias primas o insumos</td> 
-  <tr> 
   <tr class="estiloImput">
-  <textarea type="text" rows="6"></textarea> 
+  <td><textarea type="text" rows="6" id="txt_EMLP_C1"  size="4000"  maxlength="4000" style="width:95%"   tabindex="101" onblur="v28(this.value,this.id); guardarContenidoDocumento();" onkeypress="return validarKey(event,this.id)"> </textarea></td>
   </tr>
-  
-  <br>
-  <br>
-    <tr class="camposRepInp" >
-     <td width="100%">Materias primas o insumos</td> 
-  <tr> 
-  <tr class="estiloImput">
-  <textarea type="text" rows="6"></textarea> 
-  </tr>
-  
+ 
   <br>
   <br>
    <tr class="camposRepInp" >

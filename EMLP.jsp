@@ -178,7 +178,7 @@
   <tr> 
   <br>
   <tr class="estiloImput">
-    <textarea type="text" rows="6" id="txt_EMLP_C1"  size="4000"  maxlength="4000" style="width:95%"   tabindex="101" onblur="v28(this.value,this.id); guardarContenidoDocumento();" onkeypress="return validarKey(event,this.id)"> </textarea>
+    <td><textarea type="text" rows="6" placeholder=""> </textarea></td>
   </tr>
   
   
@@ -189,7 +189,7 @@
   <tr> 
   <br>
   <tr class="estiloImput">
-    <textarea type="text" rows="6" id="txt_EMLP_C1"  size="4000"  maxlength="4000" style="width:95%"   tabindex="101" onblur="v28(this.value,this.id); guardarContenidoDocumento();" onkeypress="return validarKey(event,this.id)"> </textarea>
+    <td><textarea type="text" rows="6" placeholder=""> </textarea></td>
   </tr>
   
   <br>
@@ -199,8 +199,9 @@
   <tr> 
   <br>
   <tr class="estiloImput">
-    <textarea type="text" rows="6" id="txt_EMLP_C1"  size="4000"  maxlength="4000" style="width:95%"   tabindex="101" onblur="v28(this.value,this.id); guardarContenidoDocumento();" onkeypress="return validarKey(event,this.id)"> </textarea>
+    <td><textarea type="text" rows="6" placeholder=""> </textarea></td>
   </tr>
+  
   
   <br>
   <br>
@@ -209,7 +210,7 @@
   <tr> 
   <br>
   <tr class="estiloImput">
-    <textarea type="text" rows="6" id="txt_EMLP_C1"  size="4000"  maxlength="4000" style="width:95%"   tabindex="101" onblur="v28(this.value,this.id); guardarContenidoDocumento();" onkeypress="return validarKey(event,this.id)"> </textarea>
+    <td><textarea type="text" rows="6" placeholder=""> </textarea></td>
   </tr>
   
   <br>
@@ -218,8 +219,8 @@
      <td width="100%">Inmunizacion</td> 
   <tr> 
   <br>
-  <tr class="estiloImput">
-    <textarea type="text" rows="6" id="txt_EMLP_C1"  size="4000"  maxlength="4000" style="width:95%"   tabindex="101" onblur="v28(this.value,this.id); guardarContenidoDocumento();" onkeypress="return validarKey(event,this.id)"> </textarea>
+   <tr class="estiloImput">
+    <td><textarea type="text" rows="6" placeholder=""> </textarea></td>
   </tr>
   
   <br>
@@ -229,7 +230,48 @@
   <tr> 
   <br>
   <tr class="estiloImput">
-    <textarea type="text" rows="6" id="txt_EMLP_C1"  size="4000"  maxlength="4000" style="width:95%"   tabindex="101" onblur="v28(this.value,this.id); guardarContenidoDocumento();" onkeypress="return validarKey(event,this.id)"> </textarea>
+    <td><textarea type="text" rows="6" placeholder=""> </textarea></td>
+  </tr>
+  
+  <br>
+  <br>
+   <tr class="camposRepInp" >
+     <td width="100%">Habitos toxicos</td> 
+  <tr> 
+  <br>
+  <tr class="estiloImput">
+   <td>Fuma<input type="checkbox" name="" ></td>
+  </tr>
+  <tr class="estiloImput">
+   <td>Toma habitaulmente<input type="checkbox" name="" ></td>
+  </tr>
+  <tr class="estiloImput">
+   <td>Exbebedor<input type="checkbox" name="" ></td>
+  </tr>
+  
+  <br>
+  <br>
+   <tr class="camposRepInp" >
+     <td width="100%">Evaluacion del estado mental</td> 
+  <tr> 
+  <br>
+  <tr class="estiloImput">
+   <td><textarea type="text" rows="6" placeholder="Orieentacion"> </textarea></td>
+  </tr>
+  <tr class="estiloImput">
+   <td><textarea type="text" rows="6" placeholder="Atencion y concentracion"> </textarea></td>
+  </tr>
+  <tr class="estiloImput">
+   <td><textarea type="text" rows="6" placeholder="Sensopercepcion"> </textarea></td>
+  </tr>
+  <tr class="estiloImput">
+   <td><textarea type="text" rows="6" placeholder="Memoria"> </textarea></td>
+  </tr>
+  <tr class="estiloImput">
+   <td><textarea type="text" rows="6" placeholder="Pensamiento"> </textarea></td>
+  </tr>
+  <tr class="estiloImput">
+   <td><textarea type="text" rows="6" placeholder="Lenguaje"> </textarea></td>
   </tr>
 </table>  
 

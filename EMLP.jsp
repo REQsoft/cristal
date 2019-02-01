@@ -94,55 +94,39 @@
 			<table width="100%">
 				<tr>
 					<td>
-						<table>
+						<table width="100%">
 							<caption>Las actividades las realiza</caption>
 							<tr>
 								<td><input type="checkbox" name="" id="">De pie</td>
-							</tr>
-							<tr>
 								<td><input type="checkbox" name="" id="">Sentado</td>
-							</tr>
-							<tr>
 								<td><input type="checkbox" name="" id="">Caminando</td>
 							</tr>
 							<tr>
 								<td><input type="checkbox" name="" id="">Inclindo</td>
-							</tr>
-							<tr>
 								<td><input type="checkbox" name="" id="">Arrodillado</td>
 							</tr>
 							<tr>
-								<td><input type="checkbox" name="" id="">Otra</td>
-							</tr>
 							<tr>
-								<td><textarea rows="10" style="width:95%"></textarea></td>
+								<td colspan="3"><textarea rows="3" style="width:95%"></textarea></td>
 							</tr>
 						</table>
 					</td>
 
 					<td>
-						<table>
+						<table width="100%">
 							<caption>Acciones que realiza</caption>
 							<tr>
 								<td><input type="checkbox" name="" id="">Alcanzar</td>
-							</tr>
-							<tr>
 								<td><input type="checkbox" name="" id="">Empujar</td>
-							</tr>
-							<tr>
 								<td><input type="checkbox" name="" id="">Arrastrar</td>
 							</tr>
+
 							<tr>
 								<td><input type="checkbox" name="" id="">Halar</td>
-							</tr>
-							<tr>
 								<td><input type="checkbox" name="" id="">Levantar</td>
 							</tr>
 							<tr>
-								<td><input type="checkbox" name="" id="">Otra</td>
-							</tr>
-							<tr>
-								<td><textarea rows="10" style="width:95%"></textarea></td>
+								<td colspan="3"><textarea rows="3" style="width:95%"></textarea></td>
 							</tr>
 						</table>
 					</td>
@@ -155,11 +139,15 @@
 		<td>
 			<table width="100%">
 				<tr>
+					<th>Equipos o herramientas urilizadas</th>
+					<th>Materias primas o insumos</th>
+				</tr>
+				<tr>
 					<td>
-						<textarea rows="10" style="width:95%" placeholder="Equipos o herramientas utilizadas"></textarea>
+						<textarea rows="10" style="width:95%"></textarea>
 					</td>
 					<td>
-						<textarea rows="10" style="width:95%" placeholder="Materias primas o insumos"></textarea>
+						<textarea rows="10" style="width:95%"></textarea>
 					</td>
 				</tr>
 			</table>
@@ -249,24 +237,23 @@
 				<tr>
 					<td>
 						<table width="100%">
-							<thead>
-								<tr>
-									<th>Fecha</th>
-									<th>Empresa</th>
-									<th>Diagnostico</th>
-									<th>Indemnizacion</th>
-									<th>Reubicacion</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td><input type="text" style="width:100%"></td>
-									<td><input type="text" style="width:100%"></td>
-									<td><input type="text" style="width:100%"></td>
-									<td><input type="text" style="width:100%"></td>
-									<td><input type="text" style="width:100%"></td>
-								</tr>
-							</tbody>
+
+							<tr>
+								<th>Fecha</th>
+								<th>Empresa</th>
+								<th>Diagnostico</th>
+								<th>Indemnizacion</th>
+								<th>Reubicacion</th>
+							</tr>
+
+							<tr>
+								<td><input type="text" style="width:100%"></td>
+								<td><input type="text" style="width:100%"></td>
+								<td><input type="text" style="width:100%"></td>
+								<td><input type="text" style="width:100%"></td>
+								<td><input type="text" style="width:100%"></td>
+							</tr>
+
 						</table>
 					</td>
 					<td>

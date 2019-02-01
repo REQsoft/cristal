@@ -1,28 +1,5 @@
 <table width="100%" cellpadding="0" cellspacing="0" align="center" border="1">
-	  <tr>
-		<td>
-			<table width="100%">
-			  <caption>Motivo de evaluaci&oacute;n</caption>
-			  <tr>
-				<td><input type="checkbox" name=""> 1. Ingreso</td>
-				<td><input type="checkbox" name=""> 2. Periodo</td>
-				<td><input type="checkbox" name=""> 3. Retiro</td>
-			  </tr>
-			  <tr>
-				<td><input type="checkbox" name=""> 4. Calificacion origen </td>
-				<td><input type="checkbox" name=""> 5. Caliicacion perdida de capacidad laboral</td>
-				<td><input type="checkbox" name="">6. Evaluacion ocupacional</td>
-			  </tr>
-			  <tr>
-				<td><input type="checkbox" name=""> 7.Post incapacidad</td>
-				<td><input type="checkbox" name="">8. Reubicacion</td>
-				<td><input type="checkbox" name="">9. Otros</td>
-
-			  </tr>
-			</table>
-		</td>
-	  </tr>
-	  
+	
 	  <tr>
 		<td>	
 			<table width="100%">
@@ -55,7 +32,7 @@
 	  
 	  <tr>
 		<td>
-			<table width="100%">
+			<table width="100%">C
 				<caption>Historia laboral</caption>
 				<tr>
 					<td>
@@ -79,7 +56,13 @@
 							<tr>
 								<td><small>Turno</small></td>
 								<td>
-									
+									<table>
+										<tr>
+											<td><input type="checkbox"><small>Diurno</small> </td>
+											<td><input type="checkbox"><small>Nocturno</small></td>
+											<td><input type="checkbox"><small>Rotativo</small></td>
+										</tr>
+									</table>
 								</td>
 							</tr>
 						</table>
